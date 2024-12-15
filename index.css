@@ -69,3 +69,11 @@ font-weight: 800;
     background-color: transparent;
     color: darkcyan;
 }
+/* footer start  */
+footer{
+    font-family: 'Poppins', sans-serif;
+    padding: 5px;
+    width: 100%;
+    background-color: blanchedalmond;
+    text-align: center;
+}
